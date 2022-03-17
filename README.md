@@ -1,4 +1,4 @@
-![banner](Banners/banner2.png)
+![banner](Banners/banner3.png)
 
 - 👋 Hi, I’m @WaghAshu03
 - 👀 I’m interested in ...
