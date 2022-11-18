@@ -24,4 +24,3 @@ I'm Ashutosh, a full-stack developer from <img src="Resources/Flag_of_India.png"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaghAshu03&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaghAshu03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
-<img src="https://source.unsplash.com/1280x720/?nature" />
